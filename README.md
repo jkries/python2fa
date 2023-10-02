@@ -1,4 +1,4 @@
-This script will allow you to generate one time password codes for services like Google.
+This script will allow you to use Python to generate one time passcodes for services like Google.
 ***
 You will need to install the one time password library with the following command:
 
