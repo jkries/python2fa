@@ -9,4 +9,4 @@ There are currently 2 files that you can run:
 **basic.py**: This file will generate a new code in the command prompt window, updating every 30 seconds.
 **visual.py**: This file will show a UI box using tkinter, for those of us like something a little more polished.
 ***
-You can see how this works here: [YouTube Link]
+You can see how this works here: [YouTube Tutorial](https://youtu.be/MQVdg3wlcnU)
